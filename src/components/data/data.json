@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "Samuel Henga",
+        "title": "Developer & Lead Instructor",
+        "subjects": [
+            "Javascript",
+            "React",
+            "Angular",
+            "SQL"
+        ],
+        "course_code": "dev001"
+        
+    },
+    {
+        "id": 2,
+        "name": "Anselme Phil",
+        "title": "Developer & Lead Instructor",
+        "subjects": [
+            "Python",
+            "Django",
+            "mysQL"
+        ],
+        "course_code":"dev003"
+        
+    },
+    {
+        "id": 3,
+        "name": "Pani Fabrice",
+        "title": "Security Admin & Lead Instructor",
+        "subjects": [
+            "Principle of Security",
+            "ComptTIA"
+        ],
+        "course_code":"cyberSec001"
+        
+    },
+    {
+        "id": 4,
+        "name": "John Marcus",
+        "title": "Database developer & Lead Instructor",
+        "subjects": [
+            "Data Analyst",
+            "Power BI"
+        ],
+        "course_code":"cyberSec003"
+        
+    }
+]

@@ -1,0 +1,27 @@
+.users {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 40px;
+  list-style-type: none;
+}
+
+.course_code{
+    background-color: #333;
+    color: #fff;
+ 
+    padding: 1px 12px;
+}
+.title{
+    text-align: center;
+}
+
+
+img{
+    height: 122px;
+    width: 122px;
+}
+
+.rating{
+    color: #EB8A2F;
+}
+
